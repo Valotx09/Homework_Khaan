@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="utf-8">
@@ -10,7 +10,7 @@
     
     <header>
         <h1>Travel to Thailand</h1>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Thailand_countryside.jpg" alt="Thailand Countryside">
+        <img src="https://viajes.nationalgeographic.com.es/medio/2022/03/19/wat-tham-sua-istock-1328908216_8f55215c_800x800.jpg" alt="Thailand Countryside">
     </header>
 
     <main>
